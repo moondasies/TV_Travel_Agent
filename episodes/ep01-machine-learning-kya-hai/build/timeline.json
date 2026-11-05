@@ -1,0 +1,312 @@
+{
+ "episode": "ep01",
+ "sampleRate": 24000,
+ "duration": 43.61,
+ "voice": "kokoro:hm_omega",
+ "lines": [
+  {
+   "id": "L1",
+   "beat": "hook",
+   "start": 0.31,
+   "end": 2.985,
+   "chunks": [
+    {
+     "text": "Message aaya:",
+     "spoken": "Message आया:",
+     "start": 0.31,
+     "end": 1.36
+    },
+    {
+     "text": "\"Aapne 10 lakh jeete!\"",
+     "spoken": "आपने दस लाख जीते!",
+     "start": 1.36,
+     "end": 2.985
+    }
+   ]
+  },
+  {
+   "id": "L2",
+   "beat": "stamp",
+   "start": 3.19,
+   "end": 6.69,
+   "chunks": [
+    {
+     "text": "Phone ne turant bola:",
+     "spoken": "फ़ोन ने तुरंत बोला:",
+     "start": 3.19,
+     "end": 4.69
+    },
+    {
+     "text": "*SPAM*.",
+     "spoken": "spam.",
+     "start": 4.69,
+     "end": 5.165
+    },
+    {
+     "text": "Par yeh sikhaya kisne?",
+     "spoken": "पर यह सिखाया किसने?",
+     "start": 5.165,
+     "end": 6.69
+    }
+   ]
+  },
+  {
+   "id": "L3",
+   "beat": "rule",
+   "start": 6.995,
+   "end": 11.345,
+   "chunks": [
+    {
+     "text": "Pehle programmers",
+     "spoken": "पहले programmers",
+     "start": 6.995,
+     "end": 8.045
+    },
+    {
+     "text": "*rules* likhte the:",
+     "spoken": "rules लिखते थे:",
+     "start": 8.045,
+     "end": 9.245
+    },
+    {
+     "text": "message mein \"lottery\" hai,",
+     "spoken": "message में lottery है,",
+     "start": 9.245,
+     "end": 10.495
+    },
+    {
+     "text": "toh spam.",
+     "spoken": "तो spam.",
+     "start": 10.495,
+     "end": 11.345
+    }
+   ]
+  },
+  {
+   "id": "L4",
+   "beat": "ruleBreak",
+   "start": 11.55,
+   "end": 15.1,
+   "chunks": [
+    {
+     "text": "Scammers ne O ki jagah",
+     "spoken": "Scammers ने O की जगह",
+     "start": 11.55,
+     "end": 13.05
+    },
+    {
+     "text": "zero likh diya...",
+     "spoken": "zero लिख दिया...",
+     "start": 13.05,
+     "end": 14.15
+    },
+    {
+     "text": "rule fail.",
+     "spoken": "rule fail.",
+     "start": 14.15,
+     "end": 15.1
+    }
+   ]
+  },
+  {
+   "id": "L5",
+   "beat": "flip",
+   "start": 15.685,
+   "end": 18.285,
+   "chunks": [
+    {
+     "text": "*Machine Learning*",
+     "spoken": "Machine Learning",
+     "start": 15.685,
+     "end": 16.735
+    },
+    {
+     "text": "ulta kaam karta hai.",
+     "spoken": "उल्टा काम करता है।",
+     "start": 16.735,
+     "end": 18.285
+    }
+   ]
+  },
+  {
+   "id": "L6",
+   "beat": "examples",
+   "start": 18.47,
+   "end": 21.97,
+   "chunks": [
+    {
+     "text": "Rules nahi —",
+     "spoken": "Rules नहीं,",
+     "start": 18.47,
+     "end": 19.195
+    },
+    {
+     "text": "hazaaron *examples*:",
+     "spoken": "हज़ारों examples:",
+     "start": 19.195,
+     "end": 20.52
+    },
+    {
+     "text": "yeh spam,",
+     "spoken": "यह spam,",
+     "start": 20.52,
+     "end": 21.095
+    },
+    {
+     "text": "yeh nahi.",
+     "spoken": "यह नहीं।",
+     "start": 21.095,
+     "end": 21.97
+    }
+   ]
+  },
+  {
+   "id": "L7",
+   "beat": "patterns",
+   "start": 22.155,
+   "end": 26.63,
+   "chunks": [
+    {
+     "text": "Machine khud",
+     "spoken": "Machine ख़ुद",
+     "start": 22.155,
+     "end": 22.83
+    },
+    {
+     "text": "*patterns* dhoondhti hai:",
+     "spoken": "patterns ढूँढती है:",
+     "start": 22.83,
+     "end": 24.13
+    },
+    {
+     "text": "ajeeb links,",
+     "spoken": "अजीब links,",
+     "start": 24.13,
+     "end": 25.005
+    },
+    {
+     "text": "\"urgent\",",
+     "spoken": "urgent,",
+     "start": 25.005,
+     "end": 25.455
+    },
+    {
+     "text": "paison ka laalach.",
+     "spoken": "पैसों का लालच।",
+     "start": 25.455,
+     "end": 26.63
+    }
+   ]
+  },
+  {
+   "id": "L8",
+   "beat": "eqOld",
+   "start": 26.915,
+   "end": 30.415,
+   "chunks": [
+    {
+     "text": "Programming mein:",
+     "spoken": "Programming में:",
+     "start": 26.915,
+     "end": 27.94
+    },
+    {
+     "text": "*rules* plus *data* do,",
+     "spoken": "rules plus data दो,",
+     "start": 27.94,
+     "end": 29.165
+    },
+    {
+     "text": "*answers* milte hain.",
+     "spoken": "answers मिलते हैं।",
+     "start": 29.165,
+     "end": 30.415
+    }
+   ]
+  },
+  {
+   "id": "L9",
+   "beat": "eqML",
+   "start": 30.62,
+   "end": 35.445,
+   "chunks": [
+    {
+     "text": "Machine Learning mein:",
+     "spoken": "Machine Learning में:",
+     "start": 30.62,
+     "end": 31.92
+    },
+    {
+     "text": "*data* plus *answers* do,",
+     "spoken": "data plus answers दो,",
+     "start": 31.92,
+     "end": 33.42
+    },
+    {
+     "text": "*patterns* machine",
+     "spoken": "patterns machine",
+     "start": 33.42,
+     "end": 34.245
+    },
+    {
+     "text": "khud seekhti hai.",
+     "spoken": "ख़ुद सीखती है।",
+     "start": 34.245,
+     "end": 35.445
+    }
+   ]
+  },
+  {
+   "id": "L10",
+   "beat": "model",
+   "start": 35.65,
+   "end": 38.575,
+   "chunks": [
+    {
+     "text": "Yeh seekha hua pattern",
+     "spoken": "यह सीखा हुआ pattern",
+     "start": 35.65,
+     "end": 37.0
+    },
+    {
+     "text": "kehlata hai...",
+     "spoken": "कहलाता है...",
+     "start": 37.0,
+     "end": 37.925
+    },
+    {
+     "text": "*MODEL*.",
+     "spoken": "model.",
+     "start": 37.925,
+     "end": 38.575
+    }
+   ]
+  },
+  {
+   "id": "L11",
+   "beat": "outro",
+   "start": 39.86,
+   "end": 43.235,
+   "chunks": [
+    {
+     "text": "Par machine seekhti",
+     "spoken": "पर machine सीखती",
+     "start": 39.86,
+     "end": 41.035
+    },
+    {
+     "text": "kaise hai?",
+     "spoken": "कैसे है?",
+     "start": 41.035,
+     "end": 41.81
+    },
+    {
+     "text": "Agle episode mein!",
+     "spoken": "अगले episode में!",
+     "start": 41.81,
+     "end": 43.235
+    }
+   ]
+  }
+ ]
+}

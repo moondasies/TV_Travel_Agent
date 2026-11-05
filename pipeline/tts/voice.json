@@ -1,0 +1,27 @@
+{
+  "_comment": "THE series narrator. Do not change per episode - consistency is a brand rule. Swap provider only with a deliberate re-cast (see brand/design-system.md#voice).",
+  "provider": "kokoro",
+  "kokoro": {
+    "model_url": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx",
+    "voices_url": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin",
+    "voice": "hm_omega",
+    "lang": "hi",
+    "speed": 1.2,
+    "sample_rate": 24000
+  },
+  "elevenlabs": {
+    "_comment": "Optional upgrade path. Needs ELEVENLABS_API_KEY in env. voice_id must be set once and then frozen for the series.",
+    "voice_id": "",
+    "model_id": "eleven_multilingual_v2",
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.25,
+    "speed": 1.05
+  },
+  "lexicon": {
+    "_comment": "Series-wide pronunciation fixes, found by reviewing build/phonemes.txt. Key = text as written in episode.json, value = respelling fed to espeak (or 'ipa:...' for a whole chunk). Add here, never per-episode.",
+    "ढूँढती": "ढूंढती",
+    "पहले": "पह्ले",
+    "कहलाता": "कह्लाता"
+  }
+}

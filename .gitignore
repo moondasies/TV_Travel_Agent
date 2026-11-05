@@ -1,0 +1,7 @@
+node_modules/
+pipeline/.models/
+__pycache__/
+episodes/*/build/stills/
+episodes/*/build/video_noaudio.mp4
+episodes/*/build/mix_raw.wav
+.env

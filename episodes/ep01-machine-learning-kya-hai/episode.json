@@ -1,0 +1,230 @@
+{
+  "id": "ep01",
+  "slug": "machine-learning-kya-hai",
+  "title": "Machine Learning kya hai? Rules vs Examples",
+  "maxDurationSec": 45,
+  "notes": "Each line = one narration sentence synthesised in a single TTS pass (natural prosody). Each chunk pairs the on-screen caption (Roman Hinglish) with the text the TTS engine speaks (Devanagari for Hindi words, Latin for English terms). *word* in a caption = highlighted technical term. gapAfter = silence (s) inserted after the line. 'beat' tells the renderer which scene this line drives.",
+  "lines": [
+    {
+      "id": "L1",
+      "beat": "hook",
+      "gapAfter": 0.12,
+      "chunks": [
+        [
+          "Message aaya:",
+          "Message आया:"
+        ],
+        [
+          "\"Aapne 10 lakh jeete!\"",
+          "आपने दस लाख जीते!"
+        ]
+      ]
+    },
+    {
+      "id": "L2",
+      "beat": "stamp",
+      "gapAfter": 0.22,
+      "chunks": [
+        [
+          "Phone ne turant bola:",
+          "फ़ोन ने तुरंत बोला:"
+        ],
+        [
+          "*SPAM*.",
+          "spam."
+        ],
+        [
+          "Par yeh sikhaya kisne?",
+          "पर यह सिखाया किसने?"
+        ]
+      ]
+    },
+    {
+      "id": "L3",
+      "beat": "rule",
+      "gapAfter": 0.12,
+      "chunks": [
+        [
+          "Pehle programmers",
+          "पहले programmers"
+        ],
+        [
+          "*rules* likhte the:",
+          "rules लिखते थे:"
+        ],
+        [
+          "message mein \"lottery\" hai,",
+          "message में lottery है,"
+        ],
+        [
+          "toh spam.",
+          "तो spam."
+        ]
+      ]
+    },
+    {
+      "id": "L4",
+      "beat": "ruleBreak",
+      "gapAfter": 0.5,
+      "chunks": [
+        [
+          "Scammers ne O ki jagah",
+          "Scammers ने O की जगह"
+        ],
+        [
+          "zero likh diya...",
+          "zero लिख दिया..."
+        ],
+        [
+          "rule fail.",
+          "rule fail."
+        ]
+      ]
+    },
+    {
+      "id": "L5",
+      "beat": "flip",
+      "gapAfter": 0.1,
+      "chunks": [
+        [
+          "*Machine Learning*",
+          "Machine Learning"
+        ],
+        [
+          "ulta kaam karta hai.",
+          "उल्टा काम करता है।"
+        ]
+      ]
+    },
+    {
+      "id": "L6",
+      "beat": "examples",
+      "gapAfter": 0.1,
+      "chunks": [
+        [
+          "Rules nahi —",
+          "Rules नहीं,"
+        ],
+        [
+          "hazaaron *examples*:",
+          "हज़ारों examples:"
+        ],
+        [
+          "yeh spam,",
+          "यह spam,"
+        ],
+        [
+          "yeh nahi.",
+          "यह नहीं।"
+        ]
+      ]
+    },
+    {
+      "id": "L7",
+      "beat": "patterns",
+      "gapAfter": 0.2,
+      "chunks": [
+        [
+          "Machine khud",
+          "Machine ख़ुद"
+        ],
+        [
+          "*patterns* dhoondhti hai:",
+          "patterns ढूँढती है:"
+        ],
+        [
+          "ajeeb links,",
+          "अजीब links,"
+        ],
+        [
+          "\"urgent\",",
+          "urgent,"
+        ],
+        [
+          "paison ka laalach.",
+          "पैसों का लालच।"
+        ]
+      ]
+    },
+    {
+      "id": "L8",
+      "beat": "eqOld",
+      "gapAfter": 0.12,
+      "chunks": [
+        [
+          "Programming mein:",
+          "Programming में:"
+        ],
+        [
+          "*rules* plus *data* do,",
+          "rules plus data दो,"
+        ],
+        [
+          "*answers* milte hain.",
+          "answers मिलते हैं।"
+        ]
+      ]
+    },
+    {
+      "id": "L9",
+      "beat": "eqML",
+      "gapAfter": 0.12,
+      "chunks": [
+        [
+          "Machine Learning mein:",
+          "Machine Learning में:"
+        ],
+        [
+          "*data* plus *answers* do,",
+          "data plus answers दो,"
+        ],
+        [
+          "*patterns* machine",
+          "patterns machine"
+        ],
+        [
+          "khud seekhti hai.",
+          "ख़ुद सीखती है।"
+        ]
+      ]
+    },
+    {
+      "id": "L10",
+      "beat": "model",
+      "gapAfter": 1.2,
+      "chunks": [
+        [
+          "Yeh seekha hua pattern",
+          "यह सीखा हुआ pattern"
+        ],
+        [
+          "kehlata hai...",
+          "कहलाता है..."
+        ],
+        [
+          "*MODEL*.",
+          "model."
+        ]
+      ]
+    },
+    {
+      "id": "L11",
+      "beat": "outro",
+      "gapAfter": 0.35,
+      "chunks": [
+        [
+          "Par machine seekhti",
+          "पर machine सीखती"
+        ],
+        [
+          "kaise hai?",
+          "कैसे है?"
+        ],
+        [
+          "Agle episode mein!",
+          "अगले episode में!"
+        ]
+      ]
+    }
+  ]
+}

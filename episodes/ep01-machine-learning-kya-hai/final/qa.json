@@ -1,0 +1,96 @@
+{
+ "container": "mov,mp4,m4a,3gp,3g2,mj2",
+ "duration_s": 43.733,
+ "width": 1080,
+ "height": 1920,
+ "fps": 30.0,
+ "video_codec": "h264",
+ "pix_fmt": "yuv420p",
+ "frames": 1312,
+ "audio_codec": "aac",
+ "audio_sr": 48000,
+ "audio_channels": 2,
+ "size_mb": 19.09,
+ "loudness_lufs": -14.2,
+ "true_peak_dbtp": -3.7,
+ "narration_peak": 0.89,
+ "longest_internal_silence_s": 1.72,
+ "max_chars_per_sec": 21.6,
+ "checks": [
+  {
+   "check": "resolution 1080x1920",
+   "result": "PASS",
+   "detail": "1080x1920"
+  },
+  {
+   "check": "duration <= 45s",
+   "result": "PASS",
+   "detail": "43.733s"
+  },
+  {
+   "check": "mp4/h264/yuv420p",
+   "result": "PASS",
+   "detail": "h264 yuv420p"
+  },
+  {
+   "check": "no missing frames",
+   "result": "PASS",
+   "detail": "1312 frames decoded, 1312 expected @ 30fps"
+  },
+  {
+   "check": "audio stream present",
+   "result": "PASS",
+   "detail": "aac 48000Hz 2ch"
+  },
+  {
+   "check": "no black-screen segments",
+   "result": "PASS",
+   "detail": "0 found []"
+  },
+  {
+   "check": "loudness -14 LUFS +-1",
+   "result": "PASS",
+   "detail": "-14.2 LUFS"
+  },
+  {
+   "check": "true peak <= -1 dBTP (no clipping)",
+   "result": "PASS",
+   "detail": "-3.7 dBTP"
+  },
+  {
+   "check": "narration not clipped",
+   "result": "PASS",
+   "detail": "0 clipped samples, peak 0.89"
+  },
+  {
+   "check": "no TTS dropouts",
+   "result": "PASS",
+   "detail": "longest pause 1.72s (allowed 1.80s = longest designed gap + 0.6s)"
+  },
+  {
+   "check": "SRT cues ordered, non-overlapping",
+   "result": "PASS",
+   "detail": "36 cues"
+  },
+  {
+   "check": "SRT within video duration",
+   "result": "PASS",
+   "detail": "last cue ends 00:00:43,685"
+  },
+  {
+   "check": "SRT text == script captions",
+   "result": "PASS",
+   "detail": "word-for-word match with episode.json"
+  },
+  {
+   "check": "SRT timing from TTS alignment",
+   "result": "PASS",
+   "detail": "cue starts = model duration-predictor chunk starts"
+  },
+  {
+   "check": "caption reading speed <= 25 cps",
+   "result": "PASS",
+   "detail": "max 21.6 chars/s"
+  }
+ ]
+}

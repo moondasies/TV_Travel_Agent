@@ -1,0 +1,47 @@
+## L1
+  Message आया:                             -> mˈɛsɪdʒ ˈaːjaː:
+  आपने दस लाख जीते!                        -> ˈaːpnˌeː dˈʌs lˈaːkʰ ɟˈiːteː!
+## L2
+  फ़ोन ने तुरंत बोला:                      -> fˈoːn nˈeː tʊɾˈʌnt bˈoːlaː:
+  spam.                                    -> spˈam.
+  पर यह सिखाया किसने?                      -> pˈʌɾ jˌəh sɪkʰˈaːjaː kˈɪsnˌeː?
+## L3
+  पहले programmers                         -> pˈʌhleː pɹˈəʊɡɹaməz
+  rules लिखते थे:                          -> ɹˈuːlz lˈɪkʰtˌeː tʰeː:
+  message में lottery है,                  -> mˈɛsɪdʒ mẽː lˈɒtəɹi hɛː,
+  तो spam.                                 -> tˈoː spˈam.
+## L4
+  Scammers ने O की जगह                     -> skˈaməz nˈeː ˈəʊ ki ɟˈʌɡəh
+  zero लिख दिया...                         -> zˈiəɹəʊ lˈɪkʰ dˈɪjaː...
+  rule fail.                               -> ɹˈuːl fˈeɪl.
+## L5
+  Machine Learning                         -> məʃˈiːn lˈɜːnɪŋ
+  उल्टा काम करता है।                       -> ˈʊlʈaː kˈaːm kˈʌɾtˌaː hɛː
+## L6
+  Rules नहीं,                              -> ɹˈuːlz nˈʌhĩ,
+  हज़ारों examples:                        -> həzˈaːɾõ ɛɡzˈampəlz:
+  यह spam,                                 -> jˌəh spˈam,
+  यह नहीं।                                 -> jˌəh nˈʌhĩ
+## L7
+  Machine ख़ुद                             -> məʃˈiːn xˈʊd
+  patterns ढूँढती है:                      -> pˈatənz ɖʰˈũɖʰtˌi hɛː:
+  अजीब links,                              -> ʌɟˈiːb lˈɪŋks,
+  urgent,                                  -> ˈɜːdʒənt,
+  पैसों का लालच।                           -> pˈɛːsõ kaː lˈaːləc
+## L8
+  Programming में:                         -> pɹˈəʊɡɹamɪŋ mˈẽː:
+  rules plus data दो,                      -> ɹˈuːlz plˈʌs dˈeɪtə dˈoː,
+  answers मिलते हैं।                       -> ˈansəz mˈɪltˌeː hɛ̃
+## L9
+  Machine Learning में:                    -> məʃˈiːn lˈɜːnɪŋ mˈẽː:
+  data plus answers दो,                    -> dˈeɪtə plˈʌs ˈansəz dˈoː,
+  patterns machine                         -> pˈatənz məʃˈiːn
+  ख़ुद सीखती है।                           -> xˈʊd sˈiːkʰtˌi hɛː
+## L10
+  यह सीखा हुआ pattern                      -> jˌəh sˈiːkʰaː hˈʊaː pˈatən
+  कहलाता है...                             -> kəhlˈaːtaː hɛː...
+  model.                                   -> mˈɒdəl.
+## L11
+  पर machine सीखती                         -> pˈʌɾ məʃˈiːn sˈiːkʰtˌi
+  कैसे है?                                 -> kˈɛːseː hɛː?
+  अगले episode में!                        -> ˈʌɡlˌeː ˈɛpɪsˌəʊd mˈẽː!
